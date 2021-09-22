@@ -1,0 +1,2 @@
+rootProject.name = "intent-Acitivity"
+include ':app'
